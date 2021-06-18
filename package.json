@@ -1,0 +1,14 @@
+{
+  "name": "graveyardjs",
+  "version": "1.0.0",
+  "description": "logger de la muerte",
+  "main": "graveyard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "andrew riefenstahl",
+  "license": "ISC"
+}
